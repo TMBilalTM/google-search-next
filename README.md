@@ -10,6 +10,7 @@ First, clone the repository and install the dependencies:
 git clone https://github.com/TMBilalTM/google-search-next.git
 cd google-search-next
 npm install
+Fill in the API Keys in the .env.example file
 npm run dev
 Open http://localhost:3000 in your browser to see the result.
 ```
